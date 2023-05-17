@@ -18,7 +18,7 @@ Estimator.py is a Python script designed to streamline raw material estimation a
 2 Run estimator.py using a Python interpreter.\
 3 Enter the necessary job details and click the "Process" button.\
 4 Review the estimated raw material requirements and job number generated.\
-5 Save or export the data for further analysis or use in manufacturing processes.\
+5 Save or export the data for further analysis or use in manufacturing processes.
 
 ### OR
 
